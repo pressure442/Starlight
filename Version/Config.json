@@ -2,7 +2,7 @@
     "currentVersion": "0.0.1",
     "versions": {
         "0.0.1": {
-            "isDisabled": true,
+            "isDisabled": false,
             "lastUpdated": "2025-05-09"
         },
         "0.0.2": {
