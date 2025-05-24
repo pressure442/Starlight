@@ -1,0 +1,4 @@
+--@name: moonlight
+--@description: applys dark theme
+--@author: glo
+--@version: 1.0.0
